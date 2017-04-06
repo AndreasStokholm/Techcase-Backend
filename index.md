@@ -9,3 +9,5 @@ Requirments:
 * HTTP based
 * Add docs so we know how to run the example
 * Add comments whenever you’re making an assumption 
+
+Put the code in a git repo and send us a mail with a link to the repo or the repo tar ball when you're done, there is no deadline but the sooner the better. You are allowed to make assumptions whenever there's something unclear - how you deal with those are also part of this challenge. ;)
