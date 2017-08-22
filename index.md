@@ -1,12 +1,12 @@
 ## The CASE
-Your assignment is to create a HTTP api that allows a front-end application to fetch data. 
+Your assignment is to create an HTTP api that allows a front-end application to fetch data. 
 
 We want to be able to get items and locations (and items for a particular location).
 There should be a way to specify how we want them sorted and / or filtered. 
 
 Use the following files as data sources:
 [ITEMS](https://raw.githubusercontent.com/karmadev/Techcase-Backend/master/items.json) and
-[LOCATIONS](https://raw.githubusercontent.com/karmadev/Techcase-Backend/master/locations.json)
+[LOCATIONS](https://raw.githubusercontent.com/karmadev/Techcase-Backend/master/locations.json).
 
 Requirements:
 
