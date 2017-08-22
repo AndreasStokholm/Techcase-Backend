@@ -1,0 +1,313 @@
+{
+"techcase_items": [
+	{
+		"id" : 73,
+		"location_id" : 3291,
+		"title" : "Glutenfri kaka (choklad)",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1476368740/Companies/SUP46/Glutenfree-cookies-sup-46-cafe-5.jpg",
+		"ingredients" : null,
+		"price" : 2000,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 50,
+		"location_id" : 3291,
+		"title" : "Svamppaj med sidosallad",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1476368742/Companies/SUP46/Mushroom-pie-sup-46-cafe-2.png",
+		"ingredients" : null,
+		"price" : 7500,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 38,
+		"location_id" : 3299,
+		"title" : "Laktosfri smoothie",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1476367971/Companies/LillaP/Smoothie.jpg",
+		"ingredients" : "Sojamjölk, varierar mellan mango, blåbär & banan",
+		"price" : 3900,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 35,
+		"location_id" : 3299,
+		"title" : "Espressoboll",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1476367970/Companies/LillaP/Espressoboll_vegansk.jpg",
+		"ingredients" : "Vegansk",
+		"price" : 2200,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 45,
+		"location_id" : 3291,
+		"title" : "Kanelbulle",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1476368740/Companies/SUP46/Buns-sup-46-cafe-3.jpg",
+		"ingredients" : null,
+		"price" : 3000,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 46,
+		"location_id" : 3291,
+		"title" : "Kardemummabulle",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1476368740/Companies/SUP46/Buns-sup-46-cafe-3.jpg",
+		"ingredients" : null,
+		"price" : 3000,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 55,
+		"location_id" : 3291,
+		"title" : "Chokladboll",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1466432632/Companies/SUP46/chokladboll.jpg",
+		"ingredients" : null,
+		"price" : 2500,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 12,
+		"location_id" : 3298,
+		"title" : "Dagens rätt! Carnitas med tillbehör",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1467195666/Companies/Carotte/carotte-dagenslunch-kyckling1.jpg",
+		"ingredients" : "Med pico de gallo, gräddfil, avokado & bönris",
+		"price" : 10000,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 36,
+		"location_id" : 3299,
+		"title" : "Kokosbrownie",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1476367970/Companies/LillaP/Espressoboll_vegansk.jpg",
+		"ingredients" : null,
+		"price" : 3000,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 43,
+		"location_id" : 3299,
+		"title" : "Lilla frukostpaketet",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1476367971/Companies/LillaP/Frukost_-_Lilla_Paketet.jpg",
+		"ingredients" : "Fralla & valfri kaffe",
+		"price" : 6500,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 44,
+		"location_id" : 3299,
+		"title" : "Stora frukostpaketet",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1476367971/Companies/LillaP/Mackor_copy.jpg",
+		"ingredients" : "Fralla, valfri kaffe & juice/smothie eller yoghurt med musli",
+		"price" : 9500,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 40,
+		"location_id" : 3299,
+		"title" : "Ägg & kaviarmacka",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1476367971/Companies/LillaP/Mackor_copy.jpg",
+		"ingredients" : null,
+		"price" : 3800,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 70,
+		"location_id" : 3298,
+		"title" : "Halstrad lax",
+		"description" : null,
+		"image_url" : "Companies/Carotte/Veckans_Good_Stuff_veg.jpg",
+		"ingredients" : "Gravad gurka, rostat bovete, nobisdressing & färskpotatis",
+		"price" : 9500,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 47,
+		"location_id" : 3291,
+		"title" : "Croissant",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1476368740/Companies/SUP46/Croissants_pain-au-chocolate-sup-46-cafe-6.png",
+		"ingredients" : null,
+		"price" : 3000,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 49,
+		"location_id" : 3291,
+		"title" : "Glutenfri kaka",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1476368740/Companies/SUP46/Glutenfree-cookies-sup-46-cafe-5.jpg",
+		"ingredients" : null,
+		"price" : 2000,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 56,
+		"location_id" : 3291,
+		"title" : "Ostmacka",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1467638976/Companies/SUP46/Ostmacka.jpg",
+		"ingredients" : "Ost, gurka, groddar och paprika",
+		"price" : 4000,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 15,
+		"location_id" : 3298,
+		"title" : "Dagens gröna! Halluomi med tapenade",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1467195666/Companies/Carotte/carotte-dagenslunch-kyckling1.jpg",
+		"ingredients" : "Med paprika, aubergine, zucchini, rostad potatis & persilja",
+		"price" : 10000,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 8,
+		"location_id" : 3298,
+		"title" : "Rostbiffwrap ",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1466497982/Companies/Carotte/wrap_k%C3%B6tt.jpg",
+		"ingredients" : "Med currymajo, picklade grönsaker & rostad lök",
+		"price" : 8500,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 27,
+		"location_id" : 3298,
+		"title" : "Smoothie",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1467195667/Companies/Carotte/carotte-smoothie2.jpg",
+		"ingredients" : "Naturell yoghurt ",
+		"price" : 3900,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 28,
+		"location_id" : 3298,
+		"title" : "Laktosfri smoothie",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1467195667/Companies/Carotte/carotte-smoothie2.jpg",
+		"ingredients" : "Naturell yoghurt",
+		"price" : 4500,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 54,
+		"location_id" : 3298,
+		"title" : "Surdegsbröd, 2st",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1467621701/Companies/Carotte/surdegsbrod.jpg",
+		"ingredients" : "Hembakat",
+		"price" : 3000,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 41,
+		"location_id" : 3299,
+		"title" : "Ost & skinkmacka",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1476367971/Companies/LillaP/Mackor_copy.jpghttp://res.cloudinary.com/karmalicious-ab/image/upload/v1476367971/Companies/LillaP/Mackor_copy.jpg",
+		"ingredients" : null,
+		"price" : 3800,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 37,
+		"location_id" : 3299,
+		"title" : "Yoghurt med granola & bär",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1476367971/Companies/LillaP/Smoothie.jpg",
+		"ingredients" : "Hemmagjord granola",
+		"price" : 3900,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 2,
+		"location_id" : 3298,
+		"title" : "Dagens kyckling",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1467195666/Companies/Carotte/carotte-dagenslunch-kyckling1.jpg",
+		"ingredients" : "Med matvete, aprikoser, mandel & hummus",
+		"price" : 10000,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 42,
+		"location_id" : 3299,
+		"title" : "Ostfralla",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1476367971/Companies/LillaP/Mackor_copy.jpg",
+		"ingredients" : null,
+		"price" : 3800,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 176,
+		"location_id" : 3298,
+		"title" : "Korean pulled pork with jasmin rice",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1467195666/Companies/Carotte/carotte-dagenslunch-kyckling1.jpg",
+		"ingredients" : "",
+		"price" : 9500,
+		"created_date" : "2017-01-27T14:25:17Z"
+	},
+	{
+		"id" : 178,
+		"location_id" : 3291,
+		"title" : "Wallenbergare",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1491383130/ASSETS/ingen_bild_ny.png",
+		"ingredients" : "serveras med potatis och rårörda lingon",
+		"price" : 12000,
+		"created_date" : "2017-02-13T16:03:55Z"
+	},
+	{
+		"id" : 197,
+		"location_id" : 3400,
+		"title" : "Kanelbulle",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1491383130/ASSETS/ingen_bild_ny.png",
+		"ingredients" : "",
+		"price" : 2500,
+		"created_date" : "2017-02-22T15:24:43Z"
+	},
+	{
+		"id" : 199,
+		"location_id" : 3400,
+		"title" : "Banan",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1491383130/ASSETS/ingen_bild_ny.png",
+		"ingredients" : "",
+		"price" : 1000,
+		"created_date" : "2017-02-22T15:25:50Z"
+	},
+	{
+		"id" : 201,
+		"location_id" : 3400,
+		"title" : "Testvara",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1491383130/ASSETS/ingen_bild_ny.png",
+		"ingredients" : "",
+		"price" : 17000,
+		"created_date" : "2017-02-22T15:54:17Z"
+	},
+	{
+		"id" : 209,
+		"location_id" : 3400,
+		"title" : "Baguette med ost",
+		"description" : null,
+		"image_url" : "http://res.cloudinary.com/karmalicious-ab/image/upload/v1491383130/ASSETS/ingen_bild_ny.png",
+		"ingredients" : "",
+		"price" : 2000,
+		"created_date" : "2017-02-24T13:35:25Z"
+	}
+]}
